@@ -1,0 +1,17 @@
+Question5: Returns on a certain business venture, to the nearest $1,000, are known to follow the following probability distribution
+x	P(x)
+-2,000	0.1
+-1,000	0.1
+0	0.2
+1000	0.2
+2000	0.3
+3000	0.1
+
+(i)	What is the most likely monetary outcome of the business venture?
+ANS: The most likely monetary outcome of the business venture is  0.3
+(ii)	Is the venture likely to be successful? Explain
+ANS: yes the venture likely to be successful               
+p(x=1000)+p(x=2000)+p(x=3000)=0.2+0.3+0.1=0.6
+(iii)	What is the long-term average earning of business ventures of this kind? Explain
+ANS: (0.1)(-2000)+(0.1)(-1000)+(0.2)(0)+(0.2)(1000)+(0.3)(2000)+(0.1)(3000)= 800
+(iv)	What is the good measure of the risk involved in a venture of this kind? Compute this measure
