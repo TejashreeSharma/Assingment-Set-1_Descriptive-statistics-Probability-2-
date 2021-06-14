@@ -1,0 +1,8 @@
+Question3: Usee PNG file for question 3
+Answer the following three questions based on the histogram above.
+(i)	Where would the mode of this dataset lie?
+ Ans: 4 to 8
+(ii)	Comment on the skewness of the dataset.
+ANS: The data is present in left side, it is a positive skewness	
+(iii)	Suppose that the above histogram and the box-plot in question 2 are plotted for the same dataset. Explain how these graphs complement each other in providing information about any dataset. 
+ANS: Histogram is used to find out mode, skewness, kurtosis and boxplot is used to find out IQR and outliers.
