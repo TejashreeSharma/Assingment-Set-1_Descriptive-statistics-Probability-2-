@@ -1,0 +1,12 @@
+Question 2: use the png file uploaded for question 2
+
+Answer the following three questions based on the box-plot above.
+
+(i)	What is inter-quartile range of this dataset? (please approximate the numbers) In one line, explain what this value implies.
+Answer :upper IQR =1.5+(12-5) =8.5
+        Lower IQR = 1.5-(12-5) =6.5
+
+(ii)	What can we say about the skewness of this dataset?
+Answer: It is a positive skewness because the data is present on right side
+(iii)	If it was found that the data point with the value 25 is actually 2.5, how would the new box-plot be affected?
+Answer:there will be no outlier
